@@ -9,6 +9,10 @@
 /* Begin PBXFileReference section */
 		4192C1042394629400A586F7 /* run_bias_1dec2019.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = run_bias_1dec2019.py; sourceTree = "<group>"; };
 		4192C1052394629400A586F7 /* run_bias.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = run_bias.py; sourceTree = "<group>"; };
+		4192C1062394668700A586F7 /* check_bias_new19nov.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = check_bias_new19nov.py; sourceTree = "<group>"; };
+		4192C107239466D500A586F7 /* trigger.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = trigger.py; sourceTree = "<group>"; };
+		4192C108239467FD00A586F7 /* peak_to_muon.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = peak_to_muon.txt; sourceTree = "<group>"; };
+		4192C10923946D9200A586F7 /* check_bias.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = check_bias.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -16,6 +20,10 @@
 			isa = PBXGroup;
 			children = (
 				4192C1042394629400A586F7 /* run_bias_1dec2019.py */,
+				4192C10923946D9200A586F7 /* check_bias.py */,
+				4192C108239467FD00A586F7 /* peak_to_muon.txt */,
+				4192C107239466D500A586F7 /* trigger.py */,
+				4192C1062394668700A586F7 /* check_bias_new19nov.py */,
 				4192C1052394629400A586F7 /* run_bias.py */,
 			);
 			sourceTree = "<group>";
